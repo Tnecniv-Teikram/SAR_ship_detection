@@ -1,9 +1,3 @@
-Got it — I’ve updated your README to explicitly reflect that **YOLO-based deep learning inference is the core method**, aligned with what your notebook/repo is actually doing.
-
-Below is a **refined, accurate, and more “production-grade” README**:
-
-***
-
 # 🚢 SAR Ship Detection with Deep Learning (YOLO)
 
 ### Space Academy Tutorial | Maritime Monitoring using SAR Imagery
