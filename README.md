@@ -50,6 +50,9 @@ YOLO enables **real-time and high-accuracy object detection**, making it well-su
 
 The notebook walks through the following steps:
 
+<img width="4032" height="654" alt="image" src="https://github.com/user-attachments/assets/5c98af6d-e33c-4c3c-ac97-854fab913890" />
+
+
 ### 1. Data Preparation
 
 * Load SAR imagery
@@ -185,7 +188,7 @@ To extend this work:
 
 ***
 
-## 🤝 Acknowledgements
+## Acknowledgements
 
 * ESA Sentinel-1 SAR data
 * Open SAR ship detection datasets
@@ -193,7 +196,7 @@ To extend this work:
 
 ***
 
-## 📬 Contact
+## Contact
 
 For feedback or collaboration:
 
@@ -201,13 +204,3 @@ For feedback or collaboration:
 
 ***
 
-### ✅ Key Improvement vs Previous README
-
-* Clearly states **YOLO deep learning inference pipeline**
-* Removes ambiguity around “traditional detection”
-* Aligns with how **modern SAR ship detection is actually done (DL-based)**
-
-***
-
-If you want, I can next:
-👉 Add a **pipeline diagram + model architecture graphic** (perfect for your Space Academy / hackathon materials).
