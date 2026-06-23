@@ -1,5 +1,3 @@
-# SAR_ship_detection
-
 # 🚢 SAR Ship Detection deep learning tutorial with Sentinel-1 data
 
 ### Synthetic Aperture Radar (SAR) for Maritime Monitoring
